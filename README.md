@@ -15,4 +15,6 @@
 
 
 
-NPM-комманды для работы с бекендом: npm run start:dev - запуск сервера для работы с API
+NPM-комманды для работы с бекендом: npm run start:dev - запуск сервера для работы с API.
+
+Фронтед-часть проекта: https://github.com/reistorm/Blog/tree/main
